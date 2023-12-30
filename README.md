@@ -9,16 +9,16 @@ Java application designed to streamline the delivery planning process.
 ## Getting Started
 
 ### Town selection
-Select the town for delivery (Cape Town, Pretoria, or Durban).
+Select the town for delivery (Cape Town, Pretoria, or Durban), then click 'OK'.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/de83dabf-b4a7-46ec-b933-dca72d7946f4)
 
-### Display of results for 120 km/h or higher speed 
-If a citizen's speed is 120 km/h or higher, a fine is applicable. In such cases, the speed is multiplied by R10.20 to calculate the total fine. The application then displays the citizen's name, speed, and the resulting fine amount.
+### Weight category selection 
+Select the weight category of the parcel (0kg - 4kg, 5kg - 9kg, or Over 10kg), then click 'OK'.
 
-![image](https://github.com/basgbasg/test/assets/133644970/02a8267a-d5d9-4034-9ba0-e2be3859c83b)
+![image](https://github.com/basgbasg/test/assets/133644970/c4b77479-5d7a-49c1-9fd4-ab9efecddd0e)
 
-### Display of results for below 120 km/h speed
-If the speed is below 120 km/h, no fine is payable, and the application provides information about the citizen's name and speed without any fine details.
+### Courier company selection
+Select the courier company to handle the delivery (ABC Couriers, Fast Track, or Rest Assured), then click 'OK'.
 
-![image](https://github.com/basgbasg/test/assets/133644970/0aebad0e-af05-4d97-99ae-35f3aefcf226)
+![image](https://github.com/basgbasg/test/assets/133644970/b72be2e0-6735-43f6-b293-7c6a497123c7)
