@@ -1,6 +1,6 @@
 # Staff Salary Manager
 Java application for managing staff salaries with salary increase and deductions reports.
-#
+
 ## Features
 - Enter employee details including employee number, first name, surname, and initial salary.
 - Produce employee details report that includes increased salary after a 10% raise.
