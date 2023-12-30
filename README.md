@@ -24,7 +24,7 @@ The players are then presented with the alphabet. They take turns entering words
 
 ![image](https://github.com/basgbasg/test/assets/133644970/189b5f08-7f9a-420e-bc68-c71777d44421)
 
-### Exit application
-Enter any other key to exit the application.
+### End Game
+The game continues until a player is unable to create any more words with the remaining alphabet list. When a player cannot proceed, they must enter the sentinel value "???" to quit the game. The winner is then determined by comparing the accumulated points of the players. The player with the highest points is declared the winner, or the game is considered tied if both players have the same score.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/de5d06b2-4b62-4799-aa84-d3c44b993fe7)
