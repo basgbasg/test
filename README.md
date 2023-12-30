@@ -22,3 +22,8 @@ Select the weight category of the parcel (0kg - 4kg, 5kg - 9kg, or Over 10kg), t
 Select the courier company to handle the delivery (ABC Couriers, Fast Track, or Rest Assured), then click 'OK'.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/b72be2e0-6735-43f6-b293-7c6a497123c7)
+
+### Delivery report
+The application will generate a delivery report with detailed information about the selected options.
+
+![image](https://github.com/basgbasg/test/assets/133644970/337c5a37-a4fc-4cdc-a471-445b13658327)
