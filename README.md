@@ -1,6 +1,10 @@
 # Staff Salary Manager
 Java application for managing staff salaries with salary increase and deductions reports.
 
+## Features
+-Enter employee details including employee number, first name, surname, and initial salary.
+-Calculate and display increased salary after a 10% raise.
+-Option to view deductions report, including tax, medical aid, car allowance, UIF, and take-home pay.
 ## Enter employee details
 ![image](https://github.com/basgbasg/test/assets/133644970/f8cf8026-6713-4e17-99dd-3fd75a626d6c)
 ## heading 2
