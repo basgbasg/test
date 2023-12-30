@@ -3,7 +3,7 @@ Java application for managing staff salaries with salary increase and deductions
 
 ## Features
 - Enter employee details including employee number, first name, surname, and initial salary.
-- Calculate and display increased salary after a 10% raise.
+- View employee details report that includes increased salary after a 10% raise.
 - Option to view deductions report, including tax, medical aid, car allowance, UIF, and take-home pay.
 
 ### Enter employee details
