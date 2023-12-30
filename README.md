@@ -19,7 +19,7 @@ Enter the names of the two players.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/a075e5dd-7c0c-47c9-acea-4d0468404a7c)
 
-### 
+### Playing the Game
 The players are then presented with the alphabet. They take turns entering words using the available letters in the alphabet list. When a player enters a word, the letters of that word are removed from the alphabet list, except for vowels. Both players must agree if a word is valid, and if accepted, the player earns one point for each letter in the word. Letters used in a word are removed from the alphabet list and cannot be reused. If a player attempts to use missing letters, they are prompted to enter a new word. The winner is determined by the total points earned through valid words at the end of the game.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/189b5f08-7f9a-420e-bc68-c71777d44421)
