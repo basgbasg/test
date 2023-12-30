@@ -10,9 +10,9 @@ This Java application is a prototype for a word game inspired by Scrabble. It al
 ## Getting Started
 
 ### Start Game
-Launch the game and follow the on-screen instructions.
+Launch the game and follow the on-screen instructions. Enter '1' to start.
 
-![image](https://github.com/basgbasg/test/assets/133644970/a16aa9fd-9754-4210-b3e3-18268976702a)
+![image](https://github.com/basgbasg/test/assets/133644970/de8c6596-1acc-4f60-b7ec-c73a80fe31ee)
 
 ### Produce employee details report
 After entering the employee details, an employee details report will be displayed.
