@@ -1,17 +1,31 @@
-# Logistics Manager
-Java application designed to streamline the delivery planning process.
+# House Assignment Manager
+Java application designed to streamline the process of assigning new students to sports houses.
+
+## Overview
+This Java application is designed to assist teachers in assigning new students to relevant sports houses in a school. The program prompts the user for three student names and randomly assigns them to either the Red, Blue, or White house. Additionally, a random student number is generated for each student, which consists of the house name and a maximum of four randomly generated numbers.
 
 ## Features
-- User-friendly interface for selecting delivery options.
-- Calculation of delivery costs based on weight categories.
-- Dynamic generation and printing of delivery reports.
-
+- Random House Assignment
+- Random Student Numbers
+- Dynamic Output Display
+- 
 ## Getting Started
 
-### Town selection
-Select the town for delivery (Cape Town, Pretoria, or Durban), then click 'OK'.
+### Enter student names
+Enter the names of the three students.
+Student 1:
 
-![image](https://github.com/basgbasg/test/assets/133644970/de83dabf-b4a7-46ec-b933-dca72d7946f4)
+![image](https://github.com/basgbasg/test/assets/133644970/2ac7add2-d84b-449d-b407-5aec3f199719)
+
+Student 2:
+
+![image](https://github.com/basgbasg/test/assets/133644970/a23b16ff-d26a-47aa-9f96-ce3778d086de)
+
+Student 3:
+
+![image](https://github.com/basgbasg/test/assets/133644970/c1190aff-433a-471a-8d8e-34e3e22a62c1)
+
+
 
 ### Weight category selection 
 Select the weight category of the parcel (0kg - 4kg, 5kg - 9kg, or Over 10kg), then click 'OK'.
