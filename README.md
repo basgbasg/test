@@ -1,18 +1,16 @@
-# Word Wars Game
-This Java application is a prototype for a word game inspired by Scrabble. It allows two players to take turns entering words, and the game calculates scores based on the entered words.
+# Speeding Fine Calculator
+Java console application designed to calculate fines for citizens caught speeding in a 120km zone.
 
 ## Features
-- Two-player word game
-- Simple scoring system
-- Alphabet letter validation
-- Winner determination
+- Fine Calculation
+- Display of Results
 
 ## Getting Started
 
-### Start Game
-Launch the game and follow the on-screen instructions. Press '1' to start.
+### Enter person name and speed
+Enter the person's name and speed.
 
-![image](https://github.com/basgbasg/test/assets/133644970/de8c6596-1acc-4f60-b7ec-c73a80fe31ee)
+![image](https://github.com/basgbasg/test/assets/133644970/fa274051-7c3e-415d-b8fa-ff4d7bfd0690)
 
 ### Enter Player Names
 Enter the names of the two players.
