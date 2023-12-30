@@ -19,8 +19,11 @@ Enter the names of the two players.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/a075e5dd-7c0c-47c9-acea-4d0468404a7c)
 
-### Deductions report
-Optionally, enter '1' to view a deductions report.
+### 
+The players will then be presented with the alphabet. Each player has to enter a word with the
+available letters in the alphabet list. When a player enters a word, the letters of that word get
+removed from the alphabet list. Only vowels are not removed from the alphabet list. Before a
+word can be accepted both players must agree if the word entered is valid or not.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/eb8d883e-8c7e-41b4-8f9b-6095ab0142c4)
 
