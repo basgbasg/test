@@ -1,16 +1,17 @@
-# Speeding Fine Calculator
-Java console application designed to calculate fines for citizens caught speeding in a 120km zone.
+# Logistics Manager
+Java application designed to streamline the delivery planning process.
 
 ## Features
-- Fine Calculation
-- Display of Results
+- User-friendly interface for selecting delivery options.
+- Calculation of delivery costs based on weight categories.
+- Dynamic generation and printing of delivery reports.
 
 ## Getting Started
 
-### Enter citizen name and speed
-Enter the citizen's name and speed.
+### Town selection
+Select the town for delivery (Cape Town, Pretoria, or Durban).
 
-![image](https://github.com/basgbasg/test/assets/133644970/fa274051-7c3e-415d-b8fa-ff4d7bfd0690)
+![image](https://github.com/basgbasg/test/assets/133644970/de83dabf-b4a7-46ec-b933-dca72d7946f4)
 
 ### Display of results for 120 km/h or higher speed 
 If a citizen's speed is 120 km/h or higher, a fine is applicable. In such cases, the speed is multiplied by R10.20 to calculate the total fine. The application then displays the citizen's name, speed, and the resulting fine amount.
