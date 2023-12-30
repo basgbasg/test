@@ -8,6 +8,7 @@ Java application for managing staff salaries with salary increase and deductions
 
 ### Enter employee details
 Enter the relevant employee details.
+
 ![image](https://github.com/basgbasg/test/assets/133644970/f8cf8026-6713-4e17-99dd-3fd75a626d6c)
 
 ### Produce employee details report
