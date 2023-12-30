@@ -1,5 +1,4 @@
 # Staff Salary Manager
-
 Java application for managing staff salaries with salary increase and deductions reports.
 
 ## heading 1
