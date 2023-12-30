@@ -8,7 +8,7 @@ This Java application is designed to assist teachers in assigning new students t
 - Random House Assignment
 - Random Student Numbers
 - Dynamic Output Display
-- 
+
 ## Getting Started
 
 ### Enter student names
