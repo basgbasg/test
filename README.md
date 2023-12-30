@@ -17,7 +17,7 @@ Launch the game and follow the on-screen instructions. Press '1' to start.
 ### Enter Player Names
 Enter the names of the two players.
 
-![image](https://github.com/basgbasg/test/assets/133644970/ba5491f9-ddf9-4c2b-beca-8399d9c17a58)
+![image](https://github.com/basgbasg/test/assets/133644970/737f1cda-afbb-475e-b484-50c0200e204f)
 
 ### Deductions report
 Optionally, enter '1' to view a deductions report.
