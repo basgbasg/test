@@ -13,6 +13,7 @@ This Java application is designed to assist teachers in assigning new students t
 
 ### Enter student names
 Enter the names of the three students.
+
 Student 1:
 
 ![image](https://github.com/basgbasg/test/assets/133644970/2ac7add2-d84b-449d-b407-5aec3f199719)
