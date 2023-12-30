@@ -12,6 +12,7 @@ Enter the relevant employee details.
 ![image](https://github.com/basgbasg/test/assets/133644970/f8cf8026-6713-4e17-99dd-3fd75a626d6c)
 
 ### Produce employee details report
+After the employee details have been entered, an employee details report will be produced.
 ![image](https://github.com/basgbasg/test/assets/133644970/af5ea250-6a51-4308-a7fb-1a5943c70f44)
 
 ### Deductions report
