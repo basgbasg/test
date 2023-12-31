@@ -40,6 +40,13 @@ The application displays the customer name, contact number, product price, numbe
 ### Number of months (greater than three)
 Enter the repayment number of months, then click 'OK'.
 
+![image](https://github.com/basgbasg/test/assets/133644970/f6ec78dc-356f-4219-bb5f-08dc650777ae)
+
+### Display of results
+The application displays the customer name, contact number, product price, number of months, monthly repayment, and the total due amount.
+
+![image](https://github.com/basgbasg/test/assets/133644970/43b8cec8-9035-41c3-9389-cae9f18aa841)
+
 
 
 
