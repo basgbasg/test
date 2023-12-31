@@ -10,32 +10,32 @@ This application allow users to input key details related to a customer's credit
 
 ## Getting Started
 
-### Enter customer details
-Enter the relevant customer details and click 'OK'.
-
-Customer name:
+### Customer name
+Enter the customer name, then click 'OK'.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/03049a55-f73e-4777-9841-8cbe31f5fc16)
 
 
-Customer contact number:
+### Customer contact number
+Enter the customer contact number, then click 'OK'.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/206fc7f8-5c3c-48ee-a7fe-b9ae23e955b8)
 
 
-Product price:
+### Product price
+Enter the product price, then click 'OK'.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/453b3bcf-0510-40c1-900b-33683df4810a)
 
-Number of months:
+### Display of results
+Enter the repayment number of months, then click 'OK'.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/cc364e2f-ff46-4b10-8f38-a248409de818)
 
+Results:
+
+![image](https://github.com/basgbasg/test/assets/133644970/e9cb11f3-ee0f-41df-bdc1-757a28448fc0)
+
+Number of months (greater than three):
 
 
-
-
-### School House Assignment
-A random student number is generated for each student, which consists of the house name and a maximum of four randomly generated numbers.
-
-![image](https://github.com/basgbasg/test/assets/133644970/4760e3ac-01e3-40e4-9483-bbb14ee2d368)
