@@ -27,12 +27,13 @@ Enter the product price, then click 'OK'.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/453b3bcf-0510-40c1-900b-33683df4810a)
 
-### Display of results
+### Number of months
 Enter the repayment number of months, then click 'OK'.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/cc364e2f-ff46-4b10-8f38-a248409de818)
 
-Results:
+### Display of results
+The application displays the customer name, contact number, product price, number of months, monthly repayment, and the total due amount.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/e9cb11f3-ee0f-41df-bdc1-757a28448fc0)
 
