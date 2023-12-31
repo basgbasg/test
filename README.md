@@ -27,7 +27,7 @@ Enter the product price, then click 'OK'.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/453b3bcf-0510-40c1-900b-33683df4810a)
 
-### Number of months
+### Number of months (less than or equal to three)
 Enter the repayment number of months, then click 'OK'.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/cc364e2f-ff46-4b10-8f38-a248409de818)
@@ -37,6 +37,9 @@ The application displays the customer name, contact number, product price, numbe
 
 ![image](https://github.com/basgbasg/test/assets/133644970/e9cb11f3-ee0f-41df-bdc1-757a28448fc0)
 
-Number of months (greater than three):
+### Number of months (greater than three)
+Enter the repayment number of months, then click 'OK'.
+
+
 
 
