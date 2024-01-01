@@ -20,9 +20,11 @@ Users can verify if they have correctly arranged the sequence, review the correc
 
 
 ### Identifying Areas
-The Dewey Decimal System's top-level categories are crucial for locating books in a library. This task will help users practice matching call numbers with their respective descriptions. Match call numbers (top-level only) with their corresponding descriptions. You will see four randomly selected items in the first column. The second column will present seven possible answers, including the correct match and three incorrect ones.
+The Dewey Decimal System's top-level categories are crucial for locating books in a library. This task will help users practice matching call numbers with their respective descriptions. Match call numbers (top-level only) with their corresponding descriptions. You will see four randomly selected items in the first column. The second column will present seven possible answers, including the correct match and three incorrect ones. Check if the columns are matched correct.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/8b6f3c30-4f34-4d94-9d73-bb68dbb58a17)
+
+Users can verify if they have correctly matched the columns, review the correct order, and restart the task if needed.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/bc5adcc0-8c77-432f-86da-68dcc1a9062a)
 
