@@ -14,6 +14,8 @@ To effectively place books on library shelves, librarians must skillfully organi
 
 ![image](https://github.com/basgbasg/test/assets/133644970/c19d5369-04bc-4d32-87c0-973927b48726)
 
+Users can verify if they have correctly arranged the sequence, review the correct order, and restart the task if needed.
+
 ![image](https://github.com/basgbasg/test/assets/133644970/c4cf6554-cbc1-44fe-bfc8-9c611608e5df)
 
 
