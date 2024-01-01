@@ -31,12 +31,18 @@ Users can verify if they have correctly matched the columns, review the correct 
 
 
 ### Finding Call Numbers
-Understanding the Dewey Decimal System's hierarchy is crucial for effective navigation. This quiz delves into the system, beginning with third-level entries like "752 Color." Users see only the description, not the call number, and are presented with four top-level options. One option is correct, and three are randomly selected incorrect answers. Upon selection, four options from the next level are revealed, progressing until the most detailed level is reached. Users will be notified if their choice is incorrect.
+Understanding the Dewey Decimal System's hierarchy is crucial for effective navigation. This quiz delves into the system, beginning with third-level entries like "752 Color." Users see only the description, not the call number, and are presented with four top-level options. One option is correct, and three are randomly selected incorrect answers. Upon selection, four options from the next level are revealed, progressing until the most detailed level is reached. 
 
 ![image](https://github.com/basgbasg/test/assets/133644970/ef9547eb-ae5e-4369-887b-dee4c2375393)
 
+Users will be notified if their choice is incorrect and the correct answer for that level will be shown. Four options from the next level are shown to the users.
+
 ![image](https://github.com/basgbasg/test/assets/133644970/928ee41d-45fa-42ac-ae01-edfba167461d)
 
+Four options from the next level are shown to the users.
+
 ![image](https://github.com/basgbasg/test/assets/133644970/2769ae4d-e162-43af-a30f-84a36a4dcafd)
+
+Four options from the next level are shown to the users.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/1cf65bc4-b650-41fa-8227-d3791eee983f)
