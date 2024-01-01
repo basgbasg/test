@@ -21,7 +21,9 @@ Users can verify if they have correctly arranged the sequence, review the correc
 
 ### Identifying Areas
 
-![image](https://github.com/basgbasg/test/assets/133644970/366c3031-6a71-4413-b51f-5cf792874e0a)
+![image](https://github.com/basgbasg/test/assets/133644970/8b6f3c30-4f34-4d94-9d73-bb68dbb58a17)
+
+![image](https://github.com/basgbasg/test/assets/133644970/bc5adcc0-8c77-432f-86da-68dcc1a9062a)
 
 
 
