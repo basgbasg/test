@@ -35,7 +35,7 @@ Understanding the Dewey Decimal System's hierarchy is crucial for effective navi
 
 ![image](https://github.com/basgbasg/test/assets/133644970/ef9547eb-ae5e-4369-887b-dee4c2375393)
 
-Users will be notified if their choice is incorrect and the correct answer for that level will be shown. Four options from the next level are shown to the users.
+If users make an incorrect choice, they will receive a notification, and the correct answer for that level will be revealed. Following this, four options from the next level will be presented to guide users through the progression of the quiz.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/928ee41d-45fa-42ac-ae01-edfba167461d)
 
