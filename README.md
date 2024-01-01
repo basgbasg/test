@@ -10,6 +10,7 @@ Users can choose which task they want to do.
 
 
 ### Replacing Books
+To effectively place books on library shelves, librarians must skillfully organize call numbers both numerically and alphabetically. The application will generate 10 random call numbers. Rearrange the call numbers in ascending order. Check if your ordering matches the correct sequence.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/d1a6260f-e320-4223-8b62-0f40f4c49e2a)
 
