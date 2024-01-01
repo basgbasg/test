@@ -1,7 +1,12 @@
 # Librarian Training App
-This applicatoin is divided into three parts: Replacing Books, Identifying Areas, and Finding Call Numbers.  This application was built using C# Windows Forms App .NET Framework 4.8 in Visual Studio 2022. 
+This application allows the user to choose between three tasks on startup: Replacing Books, Identifying Areas, and Finding Call Numbers.  This application was built using C# Windows Forms App .NET Framework 4.8 in Visual Studio 2022. 
 
 ## Getting Started
+
+### Startup
+
+![image](https://github.com/basgbasg/test/assets/133644970/b21a8cd0-d6a3-44ac-8b44-f013e4c9072e)
+
 
 ### Replacing Books
 
