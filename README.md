@@ -4,6 +4,7 @@ This application allows the user to choose between three tasks on startup: Repla
 ## Getting Started
 
 ### Startup Menu
+Users can choose which task they want to do.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/b21a8cd0-d6a3-44ac-8b44-f013e4c9072e)
 
