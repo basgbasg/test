@@ -29,7 +29,9 @@ Users can verify if they have correctly arranged the sequence, review the correc
 
 ### Finding Call Numbers
 
-![image](https://github.com/basgbasg/test/assets/133644970/e88834dc-b1f4-4e7b-91dd-18011439874e)
+![image](https://github.com/basgbasg/test/assets/133644970/335ea5f9-9488-473c-8dfb-acddda361e42)
+
+![image](https://github.com/basgbasg/test/assets/133644970/aa05321f-3f1e-4544-b72c-912230a039e3)
 
 
 
