@@ -1,13 +1,21 @@
-# Linear Regression Analysis
-Linear regression analysis conducted in Python using Jupyter Notebook.  
+# Classification Analysis
+Classification analysis conducted in Python using Jupyter Notebook.
 
-## Chosen Data Set and Its Suitability for Linear Regression Analysis
-The selected dataset focuses on Delhi's air quality, particularly the particulate matter 2.5 (PM2.5) concentration, and includes various independent variables such as carbon monoxide, nitric oxide, nitrogen dioxide, ozone, and other air pollutants. Linear regression is an appropriate analysis method due to the dataset's continuous dependent variable and the assumption that changes in independent variables linearly impact air pollution levels. The dataset's ample observations enhance the accuracy of the linear regression model.
+## Chosen Data Set and Its Suitability for Classification Analysis
+The chosen diabetes prediction dataset is ideal for classification analysis due to:
+
+- Inclusion of a binary target variable ("diabetes").
+- Relevant predictor variables, such as age, BMI, and blood glucose levels.
+- Diversity of data types, allowing for the application of various classification algorithms.
+- Adequate sample size for effective model training.
+- Reasonable class balance between diabetes and non-diabetes instances.
 
 ## Analysis Objectives
-The analysis aims to employ linear regression to establish relationships between PM2.5 concentration and independent variables, identifying significant contributors to PM2.5 levels. By fitting a linear model, coefficients of independent variables will be estimated, indicating the strength and direction of relationships. The ultimate goal is to predict PM2.5 concentration based on independent variable values. The analysis seeks to answer the question: Can we predict Delhi's PM2.5 concentration based on other air quality features?
+The analysis focuses on predicting diabetes using a chosen dataset. After preprocessing to handle missing values and encode variables, the data is split into training and testing sets. A Naïve Bayes Classifier is trained on the former, and its accuracy is evaluated on the latter. Visualizations depict the model's performance, and the impact of varying training/test splits is explored. The analysis also includes a comparison with the K-Nearest Neighbors algorithm to determine the most effective model for diabetes prediction based on provided attributes. The goal is to offer insights into the Naïve Bayes Classifier's performance and understand factors influencing its accuracy.
 
 ## Reference to data set source:
-Sirohiwal, D., 2023. Air quality data of Delhi, India. [Online] 
-Available at: https://www.kaggle.com/datasets/deepaksirohiwal/delhi-air-quality
-[Accessed 3 May 2023].
+Mustafa, M., 2023. Diabetes prediction dataset. [Online] 
+Available at: https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
+[Accessed 29 May 2023].
+
+Classification analysis in Python - Jupyter Notebook.
