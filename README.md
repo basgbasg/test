@@ -6,7 +6,8 @@ Cape Guide is a local landmark guide application developed in Android Studio. Th
 ### Splash Page
 Startup screen.
 
-![Screenshot_20240109-130915_Cape Guide](https://github.com/basgbasg/test/assets/133644970/2cead583-943a-4910-8be5-719c6aa5234e)
+![Screenshot_20240109-130915_Cape Guide](https://github.com/basgbasg/test/assets/133644970/35ffcb87-11ae-499f-9c88-441624abd4df)
+
 
 
 
