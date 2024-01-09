@@ -31,10 +31,9 @@ Users are presented with preset options like restaurants, ATMs, gas stations, an
 ### Map Display Preferences
 Users have the flexibility to choose their preferred viewing experience by selecting from different types of views.
 
-Default view:                                                                                            Satellite view:
+Default view:                                                                                          
 
-![image](https://github.com/basgbasg/test/assets/133644970/d723c515-559c-423f-8cc2-9a9cabe889dc)         ![image](https://github.com/basgbasg/test/assets/133644970/2d4cef56-e6de-459e-8211-d0bbff1a2144)
-
+![image](https://github.com/basgbasg/test/assets/133644970/d723c515-559c-423f-8cc2-9a9cabe889dc)    
 
 Satellite view:
 
@@ -54,5 +53,5 @@ Users can toggle the traffic option to view real-time traffic information.
 
 Users can tap the preset options (restaurants, gas stations, etc) which shows the nearby option, and save them. 
 
-![image](https://github.com/basgbasg/test/assets/133644970/8e476e3c-d8f0-481a-a2a3-9caa1b58ed25) ![image](https://github.com/basgbasg/test/assets/133644970/823bbc3a-c873-4adb-8c9c-8b6fb226a31b)
+![image](https://github.com/basgbasg/test/assets/133644970/8e476e3c-d8f0-481a-a2a3-9caa1b58ed25)   ![image](https://github.com/basgbasg/test/assets/133644970/823bbc3a-c873-4adb-8c9c-8b6fb226a31b)
 
