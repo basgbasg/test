@@ -48,12 +48,6 @@ Users can toggle the traffic option to view real-time traffic information.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/96b534fc-84a1-4392-bd00-ee13431f0353)
 
-
-### Saved Places
-By tapping on the preset options such as restaurants, gas stations, etc, users can easily explore nearby options within each category. The app displays relevant choices, and users have the option to save their preferred selections for future reference or quick access. Users have the flexibility to save multiple places, and these saved locations are conveniently accessible through the 'Saved Places' section in the app's menu.
-
-![image](https://github.com/basgbasg/test/assets/133644970/8e476e3c-d8f0-481a-a2a3-9caa1b58ed25) ![image](https://github.com/basgbasg/test/assets/133644970/823bbc3a-c873-4adb-8c9c-8b6fb226a31b)  ![image](https://github.com/basgbasg/test/assets/133644970/9143c704-35d1-4748-917f-ea5f2f899afe) ![image](https://github.com/basgbasg/test/assets/133644970/eb20aa14-f12c-4a84-906a-9897b1dad17e)
-
 ### Menu
 The menu, represented by three lines, provides users with convenient access to various features. It displays essential information such as the user's full name and email address. The menu options include:
 
@@ -64,5 +58,11 @@ The menu, represented by three lines, provides users with convenient access to v
 - About: Learn more about the app and its features.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/c3203a43-1385-40af-a278-325b067fb279)
+
+### Saved Places
+By tapping on the preset options such as restaurants, gas stations, etc, users can easily explore nearby options within each category. The app displays relevant choices, and users have the option to save their preferred selections for future reference or quick access. Users have the flexibility to save multiple places, and these saved locations are conveniently accessible through the 'Saved Places' section in the app's menu.
+
+![image](https://github.com/basgbasg/test/assets/133644970/8e476e3c-d8f0-481a-a2a3-9caa1b58ed25) ![image](https://github.com/basgbasg/test/assets/133644970/823bbc3a-c873-4adb-8c9c-8b6fb226a31b)  ![image](https://github.com/basgbasg/test/assets/133644970/9143c704-35d1-4748-917f-ea5f2f899afe) ![image](https://github.com/basgbasg/test/assets/133644970/eb20aa14-f12c-4a84-906a-9897b1dad17e)
+
 
 
