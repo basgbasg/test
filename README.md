@@ -50,8 +50,20 @@ Users can toggle the traffic option to view real-time traffic information.
 
 
 ### Saved Places
+By tapping on the preset options such as restaurants, gas stations, etc, users can easily explore nearby options within each category. The app displays relevant choices, and users have the option to save their preferred selections for future reference or quick access. These saved places are conveniently accessible through the 'Saved Places' section in the app's menu.
 
-Users can tap the preset options (restaurants, gas stations, etc) which shows the nearby option, and save them. 
+![image](https://github.com/basgbasg/test/assets/133644970/8e476e3c-d8f0-481a-a2a3-9caa1b58ed25)   ![image](https://github.com/basgbasg/test/assets/133644970/823bbc3a-c873-4adb-8c9c-8b6fb226a31b)  ![image](https://github.com/basgbasg/test/assets/133644970/9143c704-35d1-4748-917f-ea5f2f899afe)
 
-![image](https://github.com/basgbasg/test/assets/133644970/8e476e3c-d8f0-481a-a2a3-9caa1b58ed25)   ![image](https://github.com/basgbasg/test/assets/133644970/823bbc3a-c873-4adb-8c9c-8b6fb226a31b)
+
+### Menu
+The menu, represented by three lines, provides users with convenient access to various features. It displays essential information such as the user's full name and email address. The menu options include:
+
+- Home: Navigate back to the Home Page.
+- Saved Places: Access a list of saved locations.
+- Settings: Adjust app preferences.
+- Help: Find assistance and support.
+- About: Learn more about the app and its features.
+
+![image](https://github.com/basgbasg/test/assets/133644970/c3203a43-1385-40af-a278-325b067fb279)
+
 
