@@ -4,12 +4,12 @@ Cape Guide is a local landmark guide application developed in Android Studio. Th
 ## Getting Started
 
 ### Splash Page
-This is the startup screen. The user will be taken to the login page after tapping the 'GET STARTED' button.
+This is the startup screen. Users will be taken to the login page after tapping the 'GET STARTED' button.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/5b082041-5a44-4e4e-97ad-9ea0f3413ae9)
 
 ### Login Page
-Here the user will enter their details which they used when createing the account. If the username and password matches their data in the database once they click Login they will be taken to the Home Page. 
+This is the login page. When users enter the correct details they used to create their account and tap the 'LOGIN' button, they will be redirected to the home page.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/fd1d58be-984d-461d-a95c-f0c4157af827)
 
