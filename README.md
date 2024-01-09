@@ -1,21 +1,19 @@
-# Classification Analysis
-Classification analysis conducted in Python using Jupyter Notebook.
+# Cape Guide
+Cape Guide is a local landmark guide application developed in Android Studio. The app helps users find local landmarks, such as restaurants, ATMs, gas stations, and more. It provides directions to the chosen landmark with a visually appealing interface, including an interactive map. The app utilizes Firebase for backend services, Google Cloud for additional functionalities, and integrates the Google Maps Platform for mapping and navigation.
 
-## Chosen Data Set and Its Suitability for Classification Analysis
-The chosen diabetes prediction dataset is ideal for classification analysis due to:
+## Getting Started
 
-- Inclusion of a binary target variable ("diabetes").
-- Relevant predictor variables, such as age, BMI, and blood glucose levels.
-- Diversity of data types, allowing for the application of various classification algorithms.
-- Adequate sample size for effective model training.
-- Reasonable class balance between diabetes and non-diabetes instances.
+### Splash Page
+Startup screen.
 
-## Analysis Objectives
-The analysis focuses on predicting diabetes using a chosen dataset. After preprocessing to handle missing values and encode variables, the data is split into training and testing sets. A Naïve Bayes Classifier is trained on the former, and its accuracy is evaluated on the latter. Visualizations depict the model's performance, and the impact of varying training/test splits is explored. The analysis also includes a comparison with the K-Nearest Neighbors algorithm to determine the most effective model for diabetes prediction based on provided attributes. The goal is to offer insights into the Naïve Bayes Classifier's performance and understand factors influencing its accuracy.
+### Login Page
+Here the user will enter their details which they used when createing the account. If the username and password matches their data in the database once they click Login they will be taken to the Home Page. 
 
-## Reference to data set source:
-Mustafa, M., 2023. Diabetes prediction dataset. [Online] 
-Available at: https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
-[Accessed 29 May 2023].
+### Registration Page
+The user can click 'Create an account' to create a new account. The user will then be taken to the registration page. Here the user will enter their personal details such as their full name, age, email address, and password. Once they have entered valid data and agreed to the Terms of Service and Privacy Policy, they can click Register and they will be taken back to the login page where they can enter their details and login.  
 
-Classification analysis in Python - Jupyter Notebook.
+### Home Page
+After the user enters their valid details and click login, they will be taken to the home page. The home page shows their current location. 
+
+### 
+
