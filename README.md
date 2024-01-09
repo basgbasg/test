@@ -22,5 +22,7 @@ The registration page is accessible by tapping the 'Create an account' link on t
 ### Home Page
 After the user enters their valid details and click login, they will be taken to the home page. The home page shows their current location. 
 
+![image](https://github.com/basgbasg/test/assets/133644970/e1b586c5-4182-49a8-b9e3-02f9eed6d723)
+
 ### 
 
