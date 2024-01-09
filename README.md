@@ -64,5 +64,10 @@ By tapping on the preset options such as restaurants, gas stations, etc, users c
 
 ![image](https://github.com/basgbasg/test/assets/133644970/8e476e3c-d8f0-481a-a2a3-9caa1b58ed25) ![image](https://github.com/basgbasg/test/assets/133644970/823bbc3a-c873-4adb-8c9c-8b6fb226a31b)  ![image](https://github.com/basgbasg/test/assets/133644970/9143c704-35d1-4748-917f-ea5f2f899afe) ![image](https://github.com/basgbasg/test/assets/133644970/eb20aa14-f12c-4a84-906a-9897b1dad17e)
 
+### Getting directions
+Users can tap on the 'arrow' icon to get directions. 
+
+![image](https://github.com/basgbasg/test/assets/133644970/64a4af1c-9aee-4d09-8e13-d7fec3bd7227)
+
 
 
