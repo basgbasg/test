@@ -49,4 +49,9 @@ Users can toggle the traffic option to view real-time traffic information.
 ![image](https://github.com/basgbasg/test/assets/133644970/96b534fc-84a1-4392-bd00-ee13431f0353)
 
 
-###
+### Saved Places
+
+Users can tap the preset options (restaurants, gas stations, etc) which shows the nearby option, and save them. 
+
+![image](https://github.com/basgbasg/test/assets/133644970/8e476e3c-d8f0-481a-a2a3-9caa1b58ed25) ![image](https://github.com/basgbasg/test/assets/133644970/823bbc3a-c873-4adb-8c9c-8b6fb226a31b)
+
