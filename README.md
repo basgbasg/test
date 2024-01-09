@@ -4,7 +4,7 @@ Cape Guide is a local landmark guide application developed in Android Studio. Th
 ## Getting Started
 
 ### Splash Page
-Startup screen.
+This is the startup screen. The user will be taken to the login page after tapping the 'GET STARTED' button.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/5b082041-5a44-4e4e-97ad-9ea0f3413ae9)
 
