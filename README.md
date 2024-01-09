@@ -14,7 +14,10 @@ This is the login page. When users enter the correct details they used to create
 ![image](https://github.com/basgbasg/test/assets/133644970/fd1d58be-984d-461d-a95c-f0c4157af827)
 
 ### Registration Page
-The user can click 'Create an account' to create a new account. The user will then be taken to the registration page. Here the user will enter their personal details such as their full name, age, email address, and password. Once they have entered valid data and agreed to the Terms of Service and Privacy Policy, they can click Register and they will be taken back to the login page where they can enter their details and login.  
+The registration page is accessible by tapping the 'Create an account' link on the login page. Upon selecting this link, users will be redirected to the registration page, where they can input their personal details, including their full name, age, email address, and password. After entering valid information and agreeing to the Terms of Service and Privacy Policy, users can tap the 'REGISTER' button. Subsequently, they will be directed back to the login page, where they can log in by entering their credentials. 
+
+![image](https://github.com/basgbasg/test/assets/133644970/3102ac6b-8834-433e-8814-b45aee165bec)
+
 
 ### Home Page
 After the user enters their valid details and click login, they will be taken to the home page. The home page shows their current location. 
