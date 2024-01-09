@@ -39,3 +39,14 @@ Satellite view:
 
 ![image](https://github.com/basgbasg/test/assets/133644970/2d4cef56-e6de-459e-8211-d0bbff1a2144)
 
+Terrain view:
+
+![image](https://github.com/basgbasg/test/assets/133644970/da9de4ad-0c8d-4b32-b3ee-5351f40300db)
+
+### Traffic
+Users can toggle the traffic option to view real-time traffic information.
+
+![image](https://github.com/basgbasg/test/assets/133644970/96b534fc-84a1-4392-bd00-ee13431f0353)
+
+
+###
