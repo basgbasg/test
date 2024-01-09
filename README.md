@@ -20,6 +20,7 @@ The registration page is accessible by tapping the 'Create an account' link on t
 
 ### Home Page
 After users successfully enter their valid details and tap the 'LOGIN' button, the app will navigate them to the Home Page. On the Home Page, users can explore their surroundings, as the app displays their current location. This feature enhances the user experience by providing immediate access to information about nearby landmarks and services. 
+
 Additionally, users are presented with preset options like restaurants, ATMs, gas stations, and groceries for quick access. Additionally, on the right-hand side, users have three options:
 - Map Display Preferences: Customize your map view to suit your preferences.
 - Traffic: Toggle to view real-time traffic information.
