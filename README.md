@@ -23,6 +23,7 @@ After users successfully enter their valid details and tap the 'LOGIN' button, t
 - Map Display Preferences: Customize your map view to suit your preferences.
 - Traffic: Toggle to view real-time traffic information.
 - Your Current Location: Instantly locate yourself on the map.
+
 ![image](https://github.com/basgbasg/test/assets/133644970/e1b586c5-4182-49a8-b9e3-02f9eed6d723)
 
 ### Map Display Preferences
