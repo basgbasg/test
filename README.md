@@ -6,20 +6,12 @@ Cape Guide is a local landmark guide application developed in Android Studio. Th
 ### Splash Page
 Startup screen.
 
-![image](https://github.com/basgbasg/test/assets/133644970/1fbb4588-219d-439e-984c-35f67c11c259)
-
-
-
-
-
-
-
-
+![image](https://github.com/basgbasg/test/assets/133644970/5b082041-5a44-4e4e-97ad-9ea0f3413ae9)
 
 ### Login Page
 Here the user will enter their details which they used when createing the account. If the username and password matches their data in the database once they click Login they will be taken to the Home Page. 
 
-
+![image](https://github.com/basgbasg/test/assets/133644970/fd1d58be-984d-461d-a95c-f0c4157af827)
 
 ### Registration Page
 The user can click 'Create an account' to create a new account. The user will then be taken to the registration page. Here the user will enter their personal details such as their full name, age, email address, and password. Once they have entered valid data and agreed to the Terms of Service and Privacy Policy, they can click Register and they will be taken back to the login page where they can enter their details and login.  
