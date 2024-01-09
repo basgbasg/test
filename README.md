@@ -31,9 +31,10 @@ Users are presented with preset options like restaurants, ATMs, gas stations, an
 ### Map Display Preferences
 Users have the flexibility to choose their preferred viewing experience by selecting from different types of views.
 
-Default view:
+Default view:                                                                                            Satellite view:
 
-![image](https://github.com/basgbasg/test/assets/133644970/d723c515-559c-423f-8cc2-9a9cabe889dc)
+![image](https://github.com/basgbasg/test/assets/133644970/d723c515-559c-423f-8cc2-9a9cabe889dc)         ![image](https://github.com/basgbasg/test/assets/133644970/2d4cef56-e6de-459e-8211-d0bbff1a2144)
+
 
 Satellite view:
 
