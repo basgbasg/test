@@ -1,12 +1,13 @@
-# Cape Guide
-Cape Guide is a local landmark guide application developed in Android Studio. The app helps users find local landmarks, such as restaurants, ATMs, gas stations, and more. It provides directions to the chosen landmark with a visually appealing interface, including an interactive map. The app utilizes Firebase for backend services, Google Cloud for additional functionalities, and integrates the Google Maps Platform for mapping and navigation.
+# NightingaleWebApp
+NightingaleWebApp is a C# logistics management web application designed and developed for a non-governmental organization (NGO) utilizing Blazor Server App Template and .NET 6.0 Framework. It streamlines task assignment, data management, and reporting for administrators. With user roles for both administrators and members, the app facilitates efficient task tracking and completion. 
 
 ## Getting Started
 
-### Splash Page
+### Welcome Page
 This is the startup screen. Users will be taken to the Login Page after tapping the 'GET STARTED' button.
 
-![image](https://github.com/basgbasg/test/assets/133644970/5b082041-5a44-4e4e-97ad-9ea0f3413ae9)
+![image](https://github.com/basgbasg/test/assets/133644970/69ee5e79-f752-4447-a348-69c9e001fffc)
+
 
 ### Login Page
 This is the Login Page. When users enter the correct details they used to create their account and tap the 'LOGIN' button, they will be redirected to the Home Page.
