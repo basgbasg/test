@@ -32,12 +32,14 @@ Users are required to fill out their user credentials to access the web applicat
 ![image](https://github.com/basgbasg/test/assets/133644970/08748301-303c-46f3-abdf-1e304f72a475)
 
 ### Destinations Page
-
 To navigate to the 'Destinations' page, administrators can click on the 'Destinations' link in the navigation menu at the top of the web page. Here, a list of saved destinations can be viewed.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/7eb0c9fe-3e33-449d-bf52-0828579a67b4)
 
+### Reports Page
+To access the 'Reports' page, administrators can click on the 'Reports' link in the navigation menu at the top of the web page. Here, a list of saved data can be viewed. To search for specific data and generate a report, administrators will need to input the 'Start' and 'End' dates of the data they want to retrieve. They can also specify a member by entering their username into the 'Member Username' field located at the top left of the screen. After selecting the two dates, administrators can click the 'Search' button next to the 'End Date' field. This action will display all data associated with that user within the specified date range.
 
+![image](https://github.com/basgbasg/test/assets/133644970/c1c34fc7-1bdc-4bb7-ab28-cebae35fb137)
 
 
 
