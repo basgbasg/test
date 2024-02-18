@@ -11,15 +11,20 @@ NightingaleWebApp is a logistics management web application designed and develop
 ![image](https://github.com/basgbasg/test/assets/133644970/dcae065b-46b5-484b-a40b-e60f0b540bfd)
 
 ### Not Authorized
-
+A person must log in to gain access, with administrators restricted from accessing the member's console and members only able to access the members' console.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/9312d99b-70ea-4a18-8f46-2ea3f64fb2f0)
 
 
-### Login Page
-This is the Login Page. When users enter the correct details they used to create their account and tap the 'LOGIN' button, they will be redirected to the Home Page.
+### Register Page
+Users will be required to input their email and password, along with confirming the password. After filling in all the fields, users can proceed by clicking on the 'Register' button.
 
-![image](https://github.com/basgbasg/test/assets/133644970/fd1d58be-984d-461d-a95c-f0c4157af827)
+![image](https://github.com/basgbasg/test/assets/133644970/939047b8-3207-4fec-8a59-b7e04ca6eb4b)
+
+After registration, users will be redirected to a confirmation email page where they must verify their email address by confirming their password to save their account information to the database. Upon successful email confirmation, users will be directed to a page confirming their email address.
+
+![image](https://github.com/basgbasg/test/assets/133644970/4bd5dc56-b23a-44c4-8c83-098be423928f)
+
 
 ### Registration Page
 The registration page is accessible by tapping the 'Create an account' link on the Login Page. Upon selecting this link, users will be redirected to the Registration Page, where they can input their personal details, including their full name, age, email address, and password. After entering valid information and agreeing to the Terms of Service and Privacy Policy, users can tap the 'REGISTER' button. Subsequently, they will be directed back to the Login Page, where they can log in by entering their credentials. 
