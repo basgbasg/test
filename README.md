@@ -1,5 +1,5 @@
 # NightingaleWebApp
-NightingaleWebApp is a C# logistics management web application designed and developed for a non-governmental organization (NGO) utilizing Blazor Server App Template and .NET 6.0 Framework. It streamlines task assignment, data management, and reporting for administrators. With user roles for both administrators and members, the app facilitates efficient task tracking and completion.  
+NightingaleWebApp is a C# logistics management web application designed and developed for a non-governmental organization (NGO) utilizing Blazor Server App Template and .NET 6.0 Framework. This application features distinct user roles: administrators and members. Administrators have full access to manage various sections including destinations, vehicles, stocks, members, and reports. They can create, edit, update, and delete data within these sections to effectively oversee logistics operations. Members, on the other hand, have limited access and can only interact with the member's console section. Within this section, members can perform tasks specific to their role within the logistics system, such as selecting destinations, member names, and indicating the number of destinations covered.
 
 ## Getting Started
 
