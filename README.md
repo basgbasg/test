@@ -16,7 +16,7 @@ A person must log in to gain access, with administrators restricted from accessi
 ![image](https://github.com/basgbasg/test/assets/133644970/9312d99b-70ea-4a18-8f46-2ea3f64fb2f0)
 
 
-### Register Page
+### Registration Page
 Users will be required to input their email and password, along with confirming the password. After filling in all the fields, users can proceed by clicking on the 'Register' button.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/939047b8-3207-4fec-8a59-b7e04ca6eb4b)
@@ -26,10 +26,20 @@ After registration, users will be redirected to a confirmation email page where 
 ![image](https://github.com/basgbasg/test/assets/133644970/4bd5dc56-b23a-44c4-8c83-098be423928f)
 
 
-### Registration Page
-The registration page is accessible by tapping the 'Create an account' link on the Login Page. Upon selecting this link, users will be redirected to the Registration Page, where they can input their personal details, including their full name, age, email address, and password. After entering valid information and agreeing to the Terms of Service and Privacy Policy, users can tap the 'REGISTER' button. Subsequently, they will be directed back to the Login Page, where they can log in by entering their credentials. 
+### Login Page
+Users are required to fill out their user credentials to access the web application. An option labeled 'Remember me?' is available, allowing users to save their credentials for easier login in the future. After filling in all the fields, users can click on the 'Log in' button, which will navigate them to their application.
 
-![image](https://github.com/basgbasg/test/assets/133644970/3102ac6b-8834-433e-8814-b45aee165bec)
+![image](https://github.com/basgbasg/test/assets/133644970/08748301-303c-46f3-abdf-1e304f72a475)
+
+### Destinations Page
+
+To navigate to the 'Destinations' page, administrators can click on the 'Destinations' link in the navigation menu at the top of the web page. Here, a list of saved destinations can be viewed.
+
+![image](https://github.com/basgbasg/test/assets/133644970/7eb0c9fe-3e33-449d-bf52-0828579a67b4)
+
+
+
+
 
 ### Home Page
 After users successfully enter their valid details and tap the 'LOGIN' button, the app will navigate them to the Home Page. On the Home Page, users can explore their surroundings, as the app displays their current location. This feature enhances the user experience by providing immediate access to information about nearby landmarks and services. 
