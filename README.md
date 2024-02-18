@@ -4,9 +4,9 @@ NightingaleWebApp is a C# logistics management web application designed and deve
 ## Getting Started
 
 ### Home Page
-This is the home page. 
 
-![image](https://github.com/basgbasg/test/assets/133644970/69ee5e79-f752-4447-a348-69c9e001fffc)
+![image](https://github.com/basgbasg/test/assets/133644970/dcae065b-46b5-484b-a40b-e60f0b540bfd)
+
 
 
 ### Login Page
