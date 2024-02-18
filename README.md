@@ -41,6 +41,12 @@ To access the 'Reports' page, administrators can click on the 'Reports' link in 
 
 ![image](https://github.com/basgbasg/test/assets/133644970/c1c34fc7-1bdc-4bb7-ab28-cebae35fb137)
 
+To print the report, simply click on the 'Print' button located in the top right corner, next to the 'Search' button. This will initiate the printing process for the displayed report.
+
+![image](https://github.com/basgbasg/test/assets/133644970/64c49932-f3cc-42d4-9d82-422b1522a3e4)
+
+
+
 
 
 ### Home Page
